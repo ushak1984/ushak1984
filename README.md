@@ -54,8 +54,4 @@ Boston University
 - AI/ML Applications
 - IoT and Telematics Analytics
 
-## Contact
-
-- **GitHub:** https://github.com/ushak1984
-- **LinkedIn:** Add LinkedIn profile link
-- **Email:** Add professional email if you want to show it
+ 
