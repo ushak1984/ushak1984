@@ -2,7 +2,7 @@
 
 # Data Science Portfolio
 
-I am a recent M.S. Data Science graduate with experience in Python, SQL, machine learning, data analysis, and cloud/data engineering fundamentals. I also have prior technical experience in firmware validation, IoT/telematics systems, telecom, and hardware/software troubleshooting.
+I am a recent M.S. Data Science graduate with experience in Python, SQL, machine learning, data analysis, and cloud/data engineering fundamentals. I also have prior technical experience in firmware validation, IoT application software/telematics systems, OPENWRT Residential Gateway GUI, telecom, and hardware/software troubleshooting.
 
 I am interested in data analyst, data science, data engineering, and AI/ML roles where I can combine analytical skills with real-world technical problem solving.
 
@@ -14,15 +14,15 @@ I am interested in data analyst, data science, data engineering, and AI/ML roles
 - **Data Engineering:** ETL concepts, Data Pipelines, Azure fundamentals
 - **Visualization:** Power BI, Matplotlib
 - **Tools:** Git, GitHub, Jupyter Notebook, VS Code
-- **Domain Exposure:** IoT, Telematics, Battery/Charger Monitoring, Firmware Validation
+- **Domain Exposure:** IoT - irrigation, Telematics, Telecom,  Battery/Charger Monitoring, Firmware Validation
 
 ## Featured Projects
 
 ### Network Threat Detection / Anomaly Detection
 
-Machine learning project focused on identifying abnormal or suspicious network behavior using structured data.
+Machine learning project focused on identifying network threats using attack classification and anomaly detection
 
-**Skills used:** Python, Pandas, Scikit-learn, Classification, Model Evaluation
+**Skills used:** Python, Pandas, Scikit-learn, Classification, Clustering, Model Evaluation
 
 ---
 
